@@ -5,7 +5,7 @@ This repo is used to teach collaboration in a git repo.
 
 ### Collaborators 
 
-Mateo610
-moyerc05
+Mateo610 krausm@moravian.edu
+moyerc05 moyer@moravian.edu
 
  09ef679
